@@ -24,12 +24,17 @@ This Python script uses Tkinter for a simple GUI to translate VTT subtitle files
 3.  Click "Upload and Process File" and select your English `.vtt` file.
 4.  Wait for the process to complete.
 
+* You can customize and fine-tune the prompt in your code to better suit your specific use case.
+
 ## Output
 
 * The script processes the file in chunks.
 * Translated chunks are saved as separate numbered files (e.g., `1_processed_...vtt`, `2_processed_...vtt`) in a new folder named `processed_files` inside the original file's directory.
-* **You will need to manually combine these files if you need a single output file. Some Edge cases might not be handled perfectly, it's recommended to check the output. **
+* **You will need to manually combine these files if you need a single output file. Some Edge cases might not be handled perfectly, it is recommended to check the output. **
+
 
 ## License
 
 MIT License
+
+### AI tools were utilized during parts of the development process.
