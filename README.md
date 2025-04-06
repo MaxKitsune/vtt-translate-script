@@ -37,4 +37,4 @@ This Python script uses Tkinter for a simple GUI to translate VTT subtitle files
 
 MIT License
 
-### AI tools were utilized during parts of the development process.
+## AI tools were utilized during parts of the development process.
